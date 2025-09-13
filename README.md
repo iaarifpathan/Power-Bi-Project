@@ -49,5 +49,6 @@ moderately efficient females (30–34, 35–39).**
 
 
 **Acknowledgments**
+
 **Special thanks to BlockseBlock for organizing the Hack Studio Hackathon.**
 **Inspired by TrendWave’s social media ad campaign data.**
